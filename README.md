@@ -5,6 +5,6 @@
 </head>
 <body>
     <p>Tutaj będzie formularz</p>
-    <p><a href="https://kejpy.github.io/index.html/">Powrót do strony głównej</a></p>
+    <p><a href="https://kejpy.github.io/indexhtml/">Powrót do strony głównej</a></p>
 </body>
 </html>
